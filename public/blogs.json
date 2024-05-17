@@ -1,0 +1,57 @@
+[
+    {
+      "id": "1",
+      "cover_title": "Exploring the Universe",
+      "author": "Jane Doe",
+      "cover_img": "https://img.freepik.com/free-photo/laptop-eyeglasses-mouse-diary-pen-pot-plant-black-background_23-2148042031.jpg?t=st=1715844349~exp=1715847949~hmac=e95f34f349f98ff78af1a4f6db6afe59b45687e422455854fa7584479e746e57&w=1060",
+      "posted_date": "2024-05-15",
+      "reading_time": 15,
+      "hashtags": ["space", "astronomy", "science"],
+      "author_img":"../src/assets/profile.png"
+    },
+    {
+      "id": "2",
+      "cover_title": "The Art of Cooking",
+      "author": "John Smith",
+      "cover_img": "https://img.freepik.com/free-photo/open-laptop-camera-cactus-potted-plant-pink-background_23-2147916175.jpg?t=st=1715844426~exp=1715848026~hmac=7e4a9b3dd8e2929b28dba743381a49c60f73058cc2f79c80bcc5d93cecc11786&w=1060",
+      "posted_date": "2024-05-10",
+      "reading_time": 13,
+      "hashtags": ["cooking", "recipes", "food"],
+      "author_img":"../src/assets/profile.png"
+
+    },
+    {
+      "id": "3",
+      "cover_title": "Meditation for Beginners",
+      "author": "Emily Johnson",
+      "cover_img": "https://img.freepik.com/free-photo/laptop-office-plant-black-background-top-view_169016-34505.jpg?t=st=1715844451~exp=1715848051~hmac=da0e97135898c6ab16ed514f82efd4761aa447e98918a42cbd8a3b56da6290b6&w=1060",
+      "posted_date": "2024-05-12",
+      "reading_time": 6,
+      "hashtags": ["meditation", "wellness", "mindfulness"],
+      "author_img":"../src/assets/profile.png"
+
+    },
+    {
+      "id": "4",
+      "cover_title": "Tech Innovations in 2024",
+      "author": "Michael Lee",
+      "cover_img": "https://img.freepik.com/free-photo/flat-lay-desk-dark-concept-with-copy-space_23-2148459508.jpg?t=st=1715844485~exp=1715848085~hmac=7635ed54a4e932d246830fddd0b2147279a580fc66e95da28e8e92662665b0f0&w=1060",
+      "posted_date": "2024-05-14",
+      "reading_time": 10,
+      "hashtags": ["technology", "innovation", "2024"],
+      "author_img":"../src/assets/profile.png"
+
+    },
+    {
+      "id": "5",
+      "cover_title": "Sustainable Living Tips",
+      "author": "Sarah Brown",
+      "cover_img": "https://img.freepik.com/free-photo/makeup-artist-vlogging-her-tutorials_23-2149080308.jpg?t=st=1715844504~exp=1715848104~hmac=294dacd78e21c09d2fc7aeb6c2ed8eb819944b927bfb098d59f1d4e81b88d110&w=1060",
+      "posted_date": "2024-05-16",
+      "reading_time": 12,
+      "hashtags": ["sustainability", "environment", "green"],
+      "author_img":"../src/assets/profile.png"
+
+    }
+  ]
+  
